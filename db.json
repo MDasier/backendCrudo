@@ -1,0 +1,169 @@
+{
+  "foodPlanning": [
+    {
+      "id": "m1",
+      "title": "menu test 1",
+      "description": "description prueba 1",
+      "isFav": true,
+      "breakFastDishId": "p1",
+      "lunchDishId": "p2",
+      "dinnerDishId": "p3",
+      "tags": [
+        "gluten-free",
+        "low-carb"
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "menu prueba 2",
+      "description": "description prueba 2",
+      "isFav": false,
+      "breakFastDishId": "p4",
+      "lunchDishId": "p5",
+      "dinnerDishId": "p6",
+      "tags": [
+        "lactose-free"
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "menu prueba 3",
+      "description": "description prueba 3",
+      "isFav": false,
+      "breakFastDishId": "p7",
+      "lunchDishId": "p8",
+      "dinnerDishId": "p9",
+      "tags": [
+        "lactose-free"
+      ]
+    }
+  ],
+  "dishes": [
+    {
+      "id": "p1",
+      "title": "plato prueba 1",
+      "description": "descripcion plato 1",
+      "isFav": false,
+      "tags": [
+        "gluten-free",
+        "low-carb"
+      ],
+      "preparation": [
+        "paso1:",
+        "paso2:"
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "plato prueba 2",
+      "description": "descripcion plato 2",
+      "isFav": false,
+      "tags": [
+        "gluten-free",
+        "low-carb"
+      ],
+      "preparation": [
+        "paso1:",
+        "paso2:"
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "plato prueba 1",
+      "description": "descripcion plato 1",
+      "isFav": false,
+      "tags": [
+        "gluten-free",
+        "low-carb"
+      ],
+      "preparation": [
+        "paso1:",
+        "paso2:"
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "plato prueba 1",
+      "description": "descripcion plato 1",
+      "isFav": false,
+      "tags": [
+        "gluten-free",
+        "low-carb"
+      ],
+      "preparation": [
+        "paso1:",
+        "paso2:"
+      ]
+    },
+    {
+      "id": "p5",
+      "title": "plato prueba 2",
+      "description": "descripcion plato 2",
+      "isFav": false,
+      "tags": [
+        "gluten-free",
+        "low-carb"
+      ],
+      "preparation": [
+        "paso1:",
+        "paso2:"
+      ]
+    },
+    {
+      "id": "p6",
+      "title": "plato prueba 1",
+      "description": "descripcion plato 1",
+      "isFav": false,
+      "tags": [
+        "gluten-free",
+        "low-carb"
+      ],
+      "preparation": [
+        "paso1:",
+        "paso2:"
+      ]
+    },
+    {
+      "id": "p7",
+      "title": "plato prueba 1",
+      "description": "descripcion plato 1",
+      "isFav": false,
+      "tags": [
+        "gluten-free",
+        "low-carb"
+      ],
+      "preparation": [
+        "paso1:",
+        "paso2:"
+      ]
+    },
+    {
+      "id": "p8",
+      "title": "plato prueba 2",
+      "description": "descripcion plato 2",
+      "isFav": false,
+      "tags": [
+        "gluten-free",
+        "low-carb"
+      ],
+      "preparation": [
+        "paso1:",
+        "paso2:"
+      ]
+    },
+    {
+      "id": "p9",
+      "title": "plato prueba 1",
+      "description": "descripcion plato 1",
+      "isFav": false,
+      "tags": [
+        "gluten-free",
+        "low-carb"
+      ],
+      "preparation": [
+        "paso1:",
+        "paso2:"
+      ]
+    }
+  ]
+}
