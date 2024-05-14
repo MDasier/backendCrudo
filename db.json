@@ -5,7 +5,7 @@
       "title": "menu test 1",
       "description": "description prueba 1",
       "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "isFav": true,
+      "isFav": false,
       "breakFastDishId": "p1",
       "lunchDishId": "p2",
       "dinnerDishId": "p3",
@@ -15,30 +15,100 @@
       ]
     },
     {
-      "id": "m2",
-      "title": "menu prueba 2",
-      "description": "description prueba 2",
       "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "isFav": false,
-      "breakFastDishId": "p4",
-      "lunchDishId": "p5",
-      "dinnerDishId": "p6",
-      "tags": [
-        "lactose-free"
-      ]
-    },
-    {
-      "id": "m3",
       "title": "menu prueba 3",
       "description": "description prueba 3",
-      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "isFav": false,
-      "breakFastDishId": "p7",
+      "tags": [
+        "lactose-free",
+        "high-protein"
+      ],
+      "breakFastDishId": "p2",
       "lunchDishId": "p8",
       "dinnerDishId": "p9",
+      "id": "m3",
+      "isFav": false
+    },
+    {
+      "image": "https://i.blogs.es/87930e/comidas-ricas/1366_2000.jpg",
+      "title": "dfgdfg",
+      "description": "dfgdfg",
+      "tags": [],
+      "breakFastDishId": "",
+      "lunchDishId": "",
+      "dinnerDishId": "",
+      "id": "Qw5Pbia",
+      "isFav": true
+    },
+    {
+      "image": "https://i.blogs.es/21dccb/ensaladilla/1366_2000.jpg",
+      "title": "dfgdfgjh",
+      "description": "gdfgjfg",
       "tags": [
-        "lactose-free"
-      ]
+        "lactose-free",
+        "high-protein"
+      ],
+      "breakFastDishId": "",
+      "lunchDishId": "p2",
+      "dinnerDishId": "",
+      "id": "0ELPKLQ"
+    },
+    {
+      "image": "https://i.blogs.es/fc4a68/croquetas/1366_2000.jpg",
+      "title": "hfghfgh",
+      "description": "dhdfghd",
+      "tags": [],
+      "breakFastDishId": "p3",
+      "lunchDishId": "",
+      "dinnerDishId": "",
+      "id": "UXbJPhm",
+      "isFav": true
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT76stnm_R2ock_tUSWNAkPqcglVAXYtIQbuA&usqp=CAU",
+      "title": "Food Plan OVER9000",
+      "description": "Best food plan!",
+      "tags": [],
+      "breakFastDishId": "p1",
+      "lunchDishId": "",
+      "dinnerDishId": "p1",
+      "id": "wt27h3y"
+    },
+    {
+      "image": "",
+      "title": "TEST",
+      "description": "TEST",
+      "tags": [
+        "Gluten-Free",
+        "Low-Carb"
+      ],
+      "breakFastDishId": "",
+      "lunchDishId": "",
+      "dinnerDishId": "",
+      "id": "nBZJbqz"
+    },
+    {
+      "image": "",
+      "title": "dgdfgd",
+      "description": "fghfg",
+      "tags": [],
+      "breakFastDishId": "",
+      "lunchDishId": "",
+      "dinnerDishId": "",
+      "id": "0fxkDpR"
+    },
+    {
+      "image": "https://img.freepik.com/vector-gratis/zanahoria-vegetal-dibujos-animados-vector-icono-ilustracion-comida-naturaleza-icono-concepto-aislado-vector-premium_138676-5093.jpg?size=626&ext=jpg&ga=GA1.1.44546679.1715644800&semt=sph",
+      "title": "MARINA",
+      "description": "LA MÁS NUTRITIVA",
+      "tags": [
+        "gluten-free",
+        "high-protein"
+      ],
+      "breakFastDishId": "p7",
+      "lunchDishId": "p7",
+      "dinnerDishId": "p7",
+      "id": "KpVjDk-",
+      "isFav": true
     }
   ],
   "dishes": [
@@ -47,7 +117,7 @@
       "title": "plato prueba 1",
       "description": "descripcion plato 1",
       "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZCUyMGRpc2h8ZW58MHx8MHx8fDA%3D",
-      "isFav": false,
+      "isFav": true,
       "tags": [
         "gluten-free",
         "low-carb"
@@ -62,7 +132,7 @@
       "title": "plato prueba 2",
       "description": "descripcion plato 2",
       "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZCUyMGRpc2h8ZW58MHx8MHx8fDA%3D",
-      "isFav": false,
+      "isFav": true,
       "tags": [
         "gluten-free",
         "low-carb"
@@ -133,19 +203,16 @@
       ]
     },
     {
-      "id": "p7",
-      "title": "plato prueba 1",
-      "description": "descripcion plato 1",
       "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZCUyMGRpc2h8ZW58MHx8MHx8fDA%3D",
-      "isFav": false,
+      "title": "DISH NUMBER 1",
+      "description": "DESCRIPTION 1 DISH 1 ",
       "tags": [
         "gluten-free",
-        "low-carb"
+        "lactose-free",
+        "high-protein"
       ],
-      "preparation": [
-        "paso1:",
-        "paso2:"
-      ]
+      "id": "p7",
+      "isFav": true
     },
     {
       "id": "p8",
