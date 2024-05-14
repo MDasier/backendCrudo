@@ -44,118 +44,55 @@
       "title": "dfgdfgjh",
       "description": "gdfgjfg",
       "tags": [
-        "lactose-free",
-        "high-protein"
-      ],
-      "breakFastDishId": "",
-      "lunchDishId": "p2",
-      "dinnerDishId": "",
-      "id": "0ELPKLQ"
+        "lactose-free"
+      ]
     },
     {
-      "image": "https://i.blogs.es/fc4a68/croquetas/1366_2000.jpg",
-      "title": "hfghfgh",
-      "description": "dhdfghd",
-      "tags": [],
-      "breakFastDishId": "p3",
-      "lunchDishId": "",
-      "dinnerDishId": "",
-      "id": "UXbJPhm",
-      "isFav": true
-    },
-    {
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT76stnm_R2ock_tUSWNAkPqcglVAXYtIQbuA&usqp=CAU",
-      "title": "Food Plan OVER9000",
-      "description": "Best food plan!",
-      "tags": [],
-      "breakFastDishId": "p1",
-      "lunchDishId": "",
-      "dinnerDishId": "p1",
-      "id": "wt27h3y"
-    },
-    {
-      "image": "",
-      "title": "TEST",
-      "description": "TEST",
+      "image": "https://images.unsplash.com/photo-1639427444459-85a1b6ac2d68?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHphbmFob3JpYXxlbnwwfHwwfHx8MA%3D%3D",
+      "title": "Zanahoria pa desayuna, pa come y pa cena",
+      "description": "Todo zanahoria: Zanahoria pa desayuna, pa come y pa cena",
       "tags": [
         "Gluten-Free",
-        "Low-Carb"
+        "Low-Carb",
+        "Lactose-Free",
+        false
       ],
-      "breakFastDishId": "",
-      "lunchDishId": "",
-      "dinnerDishId": "",
-      "id": "nBZJbqz"
-    },
-    {
-      "image": "",
-      "title": "dgdfgd",
-      "description": "fghfg",
-      "tags": [],
-      "breakFastDishId": "",
-      "lunchDishId": "",
-      "dinnerDishId": "",
-      "id": "0fxkDpR"
-    },
-    {
-      "image": "https://img.freepik.com/vector-gratis/zanahoria-vegetal-dibujos-animados-vector-icono-ilustracion-comida-naturaleza-icono-concepto-aislado-vector-premium_138676-5093.jpg?size=626&ext=jpg&ga=GA1.1.44546679.1715644800&semt=sph",
-      "title": "MARINA",
-      "description": "LA MÁS NUTRITIVA",
-      "tags": [
-        "gluten-free",
-        "high-protein"
-      ],
-      "breakFastDishId": "p7",
-      "lunchDishId": "p7",
-      "dinnerDishId": "p7",
-      "id": "KpVjDk-",
-      "isFav": true
+      "breakFastDishId": "p1",
+      "lunchDishId": "p2",
+      "dinnerDishId": "p5",
+      "id": "OtSXMi5"
     }
   ],
   "dishes": [
     {
-      "id": "p1",
-      "title": "plato prueba 1",
-      "description": "descripcion plato 1",
-      "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZCUyMGRpc2h8ZW58MHx8MHx8fDA%3D",
-      "isFav": true,
+      "image": "https://images.unsplash.com/photo-1630175860333-5131bda75071?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGFlbGxhfGVufDB8fDB8fHww",
+      "title": "paella",
+      "description": "plato típico valenciano de pollo y pescado",
       "tags": [
-        "gluten-free",
-        "low-carb"
+        "lactose-free",
+        "high-protein"
       ],
-      "preparation": [
-        "paso1:",
-        "paso2:"
-      ]
+      "id": "p1"
     },
     {
-      "id": "p2",
-      "title": "plato prueba 2",
+      "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZCUyMGRpc2h8ZW58MHx8MHx8fDA%3D",
+      "title": "Editando plato prueba 2",
       "description": "descripcion plato 2",
-      "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZCUyMGRpc2h8ZW58MHx8MHx8fDA%3D",
-      "isFav": true,
       "tags": [
         "gluten-free",
         "low-carb"
       ],
-      "preparation": [
-        "paso1:",
-        "paso2:"
-      ]
+      "id": "p2"
     },
     {
-      "id": "p3",
-      "title": "plato prueba 1",
-      "description": "descripcion plato 1",
       "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZCUyMGRpc2h8ZW58MHx8MHx8fDA%3D",
-      "isFav": false,
+      "title": "salmorejo",
+      "description": "descripcion plato 1",
       "tags": [
         "gluten-free",
         "low-carb"
       ],
-      "preparation": [
-        "paso1:",
-        "paso2:"
-      ]
+      "id": "p3"
     },
     {
       "id": "p4",
@@ -243,6 +180,27 @@
         "paso1:",
         "paso2:"
       ]
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1529566186297-155c18f9a434?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Gazpacho andaluz",
+      "description": "sopa fría de verduras",
+      "tags": [
+        "gluten-free",
+        "lactose-free",
+        "low-carb"
+      ],
+      "id": "qP6mR2s"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1529566186297-155c18f9a434?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Papas fritas",
+      "description": "Patatas fritas con queso. Esto es un ejemplo de una descripción larga, definitivamente no son lowcarb jejejejejjejejejejejejej",
+      "tags": [
+        "gluten-free",
+        "lactose-free"
+      ],
+      "id": "puh8RBp"
     }
   ]
 }
