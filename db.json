@@ -60,7 +60,8 @@
       "breakFastDishId": "p1",
       "lunchDishId": "p2",
       "dinnerDishId": "p5",
-      "id": "OtSXMi5"
+      "id": "OtSXMi5",
+      "isFav": true
     }
   ],
   "dishes": [
@@ -75,12 +76,12 @@
       "id": "p1"
     },
     {
-      "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZCUyMGRpc2h8ZW58MHx8MHx8fDA%3D",
-      "title": "Editando plato prueba 2",
-      "description": "descripcion plato 2",
+      "image": "https://imag.bonviveur.com/sugerencia-de-presentacion-del-bacalao-al-pil-pil.jpg",
+      "title": "Bacalao al pil-pil",
+      "description": "Bacalao con emulsión de AOVE, ajo y cayena.",
       "tags": [
         "gluten-free",
-        "low-carb"
+        "high-protein"
       ],
       "id": "p2"
     },
@@ -92,37 +93,27 @@
         "gluten-free",
         "low-carb"
       ],
-      "id": "p3"
+      "id": "p3",
+      "isFav": true
     },
     {
-      "id": "p4",
-      "title": "plato prueba 1",
-      "description": "descripcion plato 1",
-      "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZCUyMGRpc2h8ZW58MHx8MHx8fDA%3D",
-      "isFav": false,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Meshi_001.jpg",
+      "title": "PLATO DE ARROZ OVER 9000",
+      "description": "Típico plato de arroz goku",
       "tags": [
-        "gluten-free",
-        "low-carb"
+        "lactose-free"
       ],
-      "preparation": [
-        "paso1:",
-        "paso2:"
-      ]
+      "id": "p4"
     },
     {
-      "id": "p5",
-      "title": "plato prueba 2",
-      "description": "descripcion plato 2",
-      "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZCUyMGRpc2h8ZW58MHx8MHx8fDA%3D",
-      "isFav": false,
+      "image": "https://www.losmanueles.es/wp-content/uploads/2021/10/habas-con-jamon.jpg",
+      "title": "HABAS CON JAMÓN",
+      "description": "Plato típico de Granada.",
       "tags": [
         "gluten-free",
-        "low-carb"
+        "high-protein"
       ],
-      "preparation": [
-        "paso1:",
-        "paso2:"
-      ]
+      "id": "p5"
     },
     {
       "id": "p6",
