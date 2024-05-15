@@ -5,7 +5,7 @@
       "title": "menu test 1",
       "description": "description prueba 1",
       "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "isFav": false,
+      "isFav": true,
       "breakFastDishId": "p1",
       "lunchDishId": "p2",
       "dinnerDishId": "p3",
@@ -62,6 +62,20 @@
       "dinnerDishId": "p5",
       "id": "OtSXMi5",
       "isFav": true
+    },
+    {
+      "image": "https://plus.unsplash.com/premium_photo-1669870355571-4af605e29e72?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGdhenBhY2hvfGVufDB8fDB8fHww",
+      "title": "Menú vegetal",
+      "description": "pimientos fritos,pimientos fritos,pimientos fritos",
+      "tags": [
+        "gluten-free",
+        "lactose-free"
+      ],
+      "breakFastDishId": "p1",
+      "lunchDishId": "p2",
+      "dinnerDishId": "p5",
+      "isFav": false,
+      "id": "_3x4r6e"
     }
   ],
   "dishes": [
@@ -73,7 +87,8 @@
         "lactose-free",
         "high-protein"
       ],
-      "id": "p1"
+      "id": "p1",
+      "isFav": true
     },
     {
       "image": "https://imag.bonviveur.com/sugerencia-de-presentacion-del-bacalao-al-pil-pil.jpg",
@@ -84,7 +99,7 @@
         "high-protein"
       ],
       "id": "p2",
-      "isFav": true
+      "isFav": false
     },
     {
       "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZCUyMGRpc2h8ZW58MHx8MHx8fDA%3D",
@@ -95,7 +110,7 @@
         "low-carb"
       ],
       "id": "p3",
-      "isFav": true
+      "isFav": false
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Meshi_001.jpg",
@@ -114,7 +129,8 @@
         "gluten-free",
         "high-protein"
       ],
-      "id": "p5"
+      "id": "p5",
+      "isFav": true
     },
     {
       "id": "p6",
@@ -163,7 +179,7 @@
       "title": "plato prueba 1",
       "description": "descripcion plato 1",
       "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZCUyMGRpc2h8ZW58MHx8MHx8fDA%3D",
-      "isFav": false,
+      "isFav": true,
       "tags": [
         "gluten-free",
         "low-carb"
@@ -193,6 +209,23 @@
         "lactose-free"
       ],
       "id": "puh8RBp"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1529566186297-155c18f9a434?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Plato del chef",
+      "description": "plato con muchas cositas",
+      "tags": [
+        "gluten-free",
+        "low-carb"
+      ],
+      "isFav": false,
+      "preparation": [
+        "triturar verdura",
+        "echar el arroz a la olla",
+        "mezclar todo",
+        "ya tienes tu plato!"
+      ],
+      "id": "o4__2KR"
     }
   ]
 }
