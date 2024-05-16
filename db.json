@@ -2,8 +2,8 @@
   "foodPlanning": [
     {
       "id": "m1",
-      "title": "menu test 1",
-      "description": "description prueba 1",
+      "title": "Food Planning example",
+      "description": "This Food Planning is an example for web DEMO",
       "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "isFav": true,
       "breakFastDishId": "p1",
@@ -11,15 +11,17 @@
       "dinnerDishId": "p3",
       "tags": [
         "gluten-free",
-        "low-carb"
+        "low-carb",
+        "high-protein",
+        "lactose-free"
       ]
     },
     {
       "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "menu prueba 3",
-      "description": "description prueba 3",
+      "title": "Food Planning example 2",
+      "description": "Another Food Planning example for web DEMO",
       "tags": [
-        "lactose-free",
+        "low-carb",
         "high-protein"
       ],
       "breakFastDishId": "p2",
@@ -30,8 +32,8 @@
     },
     {
       "image": "https://i.blogs.es/87930e/comidas-ricas/1366_2000.jpg",
-      "title": "dfgdfg",
-      "description": "dfgdfg",
+      "title": "Food Planning TEST1",
+      "description": "Description of TEST1 for web DEMO",
       "tags": [],
       "breakFastDishId": "",
       "lunchDishId": "",
@@ -40,17 +42,9 @@
       "isFav": true
     },
     {
-      "image": "https://i.blogs.es/21dccb/ensaladilla/1366_2000.jpg",
-      "title": "dfgdfgjh",
-      "description": "gdfgjfg",
-      "tags": [
-        "lactose-free"
-      ]
-    },
-    {
       "image": "https://images.unsplash.com/photo-1639427444459-85a1b6ac2d68?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHphbmFob3JpYXxlbnwwfHwwfHx8MA%3D%3D",
-      "title": "Zanahoria pa desayuna, pa come y pa cena",
-      "description": "Todo zanahoria: Zanahoria pa desayuna, pa come y pa cena",
+      "title": "Menú para burros",
+      "description": "Todo zanahoria: Zanahoria para desayunar, para comer y para cenar",
       "tags": [
         "Gluten-Free",
         "Low-Carb",
@@ -65,15 +59,16 @@
     },
     {
       "image": "https://plus.unsplash.com/premium_photo-1669870355571-4af605e29e72?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGdhenBhY2hvfGVufDB8fDB8fHww",
-      "title": "Menú vegetal",
-      "description": "pimientos fritos,pimientos fritos,pimientos fritos",
+      "title": "Menú vegeno nivel 7",
+      "description": "Solo puedes comer cosas que no generen sombra",
       "tags": [
         "gluten-free",
-        "lactose-free"
+        "lactose-free",
+        "low-carb"
       ],
-      "breakFastDishId": "p1",
-      "lunchDishId": "p2",
-      "dinnerDishId": "p5",
+      "breakFastDishId": "",
+      "lunchDishId": "",
+      "dinnerDishId": "",
       "isFav": false,
       "id": "_3x4r6e"
     }
@@ -81,8 +76,8 @@
   "dishes": [
     {
       "image": "https://images.unsplash.com/photo-1630175860333-5131bda75071?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGFlbGxhfGVufDB8fDB8fHww",
-      "title": "paella",
-      "description": "plato típico valenciano de pollo y pescado",
+      "title": "Paella",
+      "description": "plato típico valenciano",
       "tags": [
         "lactose-free",
         "high-protein"
@@ -103,28 +98,28 @@
     },
     {
       "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZCUyMGRpc2h8ZW58MHx8MHx8fDA%3D",
-      "title": "salmorejo",
-      "description": "descripcion plato 1",
+      "title": "Salmorejo",
+      "description": "Especie de gazpacho o puré frío a base de tomate, pan, aceite, ajo, y otros ingredientes machacados o batidos, propio de algunas zonas de Andalucía",
       "tags": [
-        "gluten-free",
-        "low-carb"
+        "lactose-free"
       ],
       "id": "p3",
       "isFav": false
     },
     {
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Meshi_001.jpg",
-      "title": "PLATO DE ARROZ OVER 9000",
-      "description": "Típico plato de arroz goku. FRIKI",
+      "title": "Plato de arroz over9000",
+      "description": "Típico plato de arroz goku. FRIKI!",
       "tags": [
-        "lactose-free"
+        "lactose-free",
+        "high-protein"
       ],
       "id": "p4"
     },
     {
       "image": "https://www.losmanueles.es/wp-content/uploads/2021/10/habas-con-jamon.jpg",
-      "title": "HABAS CON JAMÓN",
-      "description": "Plato típico de Granada.",
+      "title": "Habas con jamón",
+      "description": "Plato típico de Granada. Tiene un nombre bastante descriptivo",
       "tags": [
         "gluten-free",
         "high-protein"
@@ -134,8 +129,8 @@
     },
     {
       "id": "p6",
-      "title": "plato prueba 1",
-      "description": "descripcion plato 1",
+      "title": "Dish TEST1",
+      "description": "Description for dish TEST1",
       "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZCUyMGRpc2h8ZW58MHx8MHx8fDA%3D",
       "isFav": false,
       "tags": [
@@ -149,8 +144,8 @@
     },
     {
       "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZCUyMGRpc2h8ZW58MHx8MHx8fDA%3D",
-      "title": "DISH NUMBER 1",
-      "description": "DESCRIPTION 1 DISH 1 ",
+      "title": "Dish TEST2",
+      "description": "Description for dish TEST2",
       "tags": [
         "gluten-free",
         "lactose-free",
@@ -160,39 +155,29 @@
       "isFav": false
     },
     {
-      "id": "p8",
-      "title": "plato prueba 2",
-      "description": "descripcion plato 2",
-      "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZCUyMGRpc2h8ZW58MHx8MHx8fDA%3D",
-      "isFav": false,
-      "tags": [
-        "gluten-free",
-        "low-carb"
-      ],
-      "preparation": [
-        "paso1:",
-        "paso2:"
-      ]
-    },
-    {
       "id": "p9",
-      "title": "plato prueba 1",
-      "description": "descripcion plato 1",
-      "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZCUyMGRpc2h8ZW58MHx8MHx8fDA%3D",
+      "title": "Tortilla de patatas a la Oriol",
+      "description": "La mejor tortilla de patatas que se hace en casa de Oriol",
+      "image": "https://images.unsplash.com/photo-1639669794539-952631b44515?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dG9ydGlsbGElMjBlc3BhJUMzJUIxb2xhfGVufDB8fDB8fHww",
       "isFav": true,
       "tags": [
         "gluten-free",
         "low-carb"
       ],
       "preparation": [
-        "paso1:",
-        "paso2:"
+        "Pela, pica y fríe las patatas.",
+        "Pocha cebolla. MUCHA.",
+        "Echa los huevos al bowl y dales un par de vueltas. No muchas.",
+        "Mezcla el contenido del bolw con las patatas escurridas aún calientes y TODA la cebolla.",
+        "Deja reposar la mezcla unos 4-6 minutos antes de volver a poner el la sartén.",
+        "3 minutos de sartén y le das la vuelta a la tortilla.",
+        "Listo! ya tienes la mejor tortilla de patatas de casa de Oriol (Posiblemente del mundo!)."
       ]
     },
     {
-      "image": "https://images.unsplash.com/photo-1529566186297-155c18f9a434?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "Gazpacho andaluz",
-      "description": "sopa fría de verduras",
+      "image": "https://www.recipetineats.com/wp-content/uploads/2023/01/Gazpacho_3.jpg",
+      "title": "Gazpacho",
+      "description": "Cold vegetable soup",
       "tags": [
         "gluten-free",
         "lactose-free",
@@ -201,9 +186,9 @@
       "id": "qP6mR2s"
     },
     {
-      "image": "https://images.unsplash.com/photo-1529566186297-155c18f9a434?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "Papas fritas",
-      "description": "Patatas fritas con queso. Esto es un ejemplo de una descripción larga, definitivamente no son lowcarb jejejejejjejejejejejejej",
+      "image": "https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/bacon_cheese_fries.png?itok=zrK-AOTu",
+      "title": "Bacon cheese fries",
+      "description": "Delicious and crispy fries with a mix of melted cheeses, topped with ranch sauce and crispy bacon",
       "tags": [
         "gluten-free",
         "lactose-free"
@@ -211,36 +196,23 @@
       "id": "puh8RBp"
     },
     {
-      "image": "https://images.unsplash.com/photo-1529566186297-155c18f9a434?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "title": "Plato del chef",
-      "description": "plato con muchas cositas",
-      "tags": [
-        "gluten-free",
-        "low-carb"
-      ],
-      "isFav": false,
-      "preparation": [
-        "triturar verdura",
-        "echar el arroz a la olla",
-        "mezclar todo",
-        "ya tienes tu plato!"
-      ],
-      "id": "o4__2KR"
-    },
-    {
       "image": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/pouring-honey-on-pancakes.jpg",
-      "title": "Tortitas golosas",
-      "description": "Típicas tortitas con sirope y arándanos",
+      "title": "Tortitas dulces",
+      "description": "Torta fina de harina y otros ingredientes, que se hace a la plancha y se sirve acompañada generalmente de nata y sirópes líquidos. Ingredientes: 75 g de harina de trigo de todo uso, 1 huevo medianos, 15 g de azúcar, 20 g de mantequilla, 100 ml. de leche entera, Unas gotas de esencia de vainilla, 6 g de levadura en polvo, Una pizca de sal",
       "tags": [
         "high-protein"
       ],
       "isFav": true,
       "preparation": [
-        "haz la masa",
-        "calienta la sartén",
-        "haz las tortitas coñe!",
-        "coge el sirope que tienes desde hace años en la nevera, mira la fecha de caducidad y tíralo",
-        "abre un bote de sirope nuevo y cómete las tortitas"
+        "En un bol mezclamos los ingredientes secos, la harina, levadura, azúcar y sal. Reservamos.",
+        "Combinamos en otro bol los huevos batidos, la mantequilla derretida y la esencia de vainilla. Incorporamos los ingredientes secos y, con una varilla incorporamos a los líquidos.",
+        "Vertemos la leche y batimos, es muy importante que no batamos demasiado la mezcla. Se trata de integrarlos pero, no es necesario intentar eliminar todos los grumos. Si lo batimos en exceso los pancakes nos quedarán demasiado duros.",
+        "Calentamos una sartén (debe ser aquella que tengamos para que no se pegue las cosas, la de las tortillas o cosas a la plancha).",
+        "Cuando esté caliente añadimos un cucharón de la mezcla de las tortitas, comenzando a verterlo por el centro y dejando que sea la propia masa la que se redistribuya en la sartén. Es importante que regulemos la temperatura hacia arriba o hacia abajo durante todo el proceso.",
+        "Si la masa no se cuaja al añadirla a la sartén estará demasiado fría y si, por el contrario, la parte inferior se quema antes de que aparezcan burbujitas en la parte superior, estará demasiado caliente.",
+        "Cuando vemos que aparecen burbujas en la parte superior de la tortita es el momento de darle la vuelta con una espátula. Cocinamos el pancake por el otro lado durante 30 o 40 segundos y retiramos.",
+        "Podemos añadir a la masa una vez que la vertemos en la sartén algún tipo de frutas frescas, arándanos, frambuesas, serán perfectas como acompañamiento.",
+        "Ahora que están listas compra sirope por que el tuyo lleva caducado 4 años. Listo!"
       ],
       "id": "NBTkyjJ"
     }
