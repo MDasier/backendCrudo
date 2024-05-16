@@ -226,6 +226,23 @@
         "ya tienes tu plato!"
       ],
       "id": "o4__2KR"
+    },
+    {
+      "image": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/pouring-honey-on-pancakes.jpg",
+      "title": "Tortitas golosas",
+      "description": "Típicas tortitas con sirope y arándanos",
+      "tags": [
+        "high-protein"
+      ],
+      "isFav": true,
+      "preparation": [
+        "haz la masa",
+        "calienta la sartén",
+        "haz las tortitas coñe!",
+        "coge el sirope que tienes desde hace años en la nevera, mira la fecha de caducidad y tíralo",
+        "abre un bote de sirope nuevo y cómete las tortitas"
+      ],
+      "id": "NBTkyjJ"
     }
   ]
 }
