@@ -70,9 +70,9 @@ This repository is a [json-server](https://github.com/typicode/json-server) crea
 
 ### Collaborators
 
-[Águeda Muela]([www.github-url.com](https://github.com/lamardemuela))
+[Águeda Muela]((https://github.com/lamardemuela))
 
-[Asier Mimbrero]([www.github-url.com](https://github.com/MDasier))
+[Asier Mimbrero]([https://github.com/MDasier])
 
 ### Project
 
