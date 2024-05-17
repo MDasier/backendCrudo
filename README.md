@@ -11,8 +11,6 @@ This repository is a [json-server](https://github.com/typicode/json-server) crea
 ### Food plannings
 
 ```javascript
-{
-  "foodPlanning": [
     {
       "id": "fp1",
       "title": "Food Planning example",
