@@ -70,9 +70,9 @@ This repository is a [json-server](https://github.com/typicode/json-server) crea
 
 ### Collaborators
 
-[Águeda Muela]((https://github.com/lamardemuela))
+[Águeda Muela](https://github.com/lamardemuela)
 
-[Asier Mimbrero]([https://github.com/MDasier])
+[Asier Mimbrero](https://github.com/MDasier)
 
 ### Project
 
@@ -81,7 +81,3 @@ This repository is a [json-server](https://github.com/typicode/json-server) crea
 [Repository Link Server](https://github.com/MDasier/backendCrudo)
 
 [Deploy Link](https://crudo-app.netlify.app)
-
-### Slides
-
-[Slides Link](www.your-slides-url-here.com)
