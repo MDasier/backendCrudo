@@ -1,6 +1,6 @@
 # Backend for CRUDO app
 
-This repository is a [json-server](https://github.com/typicode/json-server) created to feed data into the React Application below.
+This repository is a [json-server](https://github.com/typicode/json-server) created to feed data into CRUDO app.
 
 #### [Client Repo here](https://github.com/lamardemuela/crudo)
 
