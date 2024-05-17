@@ -78,7 +78,7 @@ This repository is a [json-server](https://github.com/typicode/json-server) crea
 
 [Repository Link Client](www.your-github-url-here.com)
 
-[Repository Link Server]([www.your-github-url-here.com](https://github.com/MDasier/backendCrudo))
+[Repository Link Server](https://github.com/MDasier/backendCrudo)
 
 [Deploy Link]([https://crudo-app.netlify.app])
 
