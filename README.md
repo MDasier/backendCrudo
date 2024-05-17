@@ -2,7 +2,7 @@
 
 This repository is a [json-server](https://github.com/typicode/json-server) created to feed data into the React Application below.
 
-#### [Client Repo here]([www.your-github-url-here.com](https://github.com/lamardemuela/crudo))
+#### [Client Repo here](https://github.com/lamardemuela/crudo)
 
 # Server Structure
 
@@ -76,11 +76,11 @@ This repository is a [json-server](https://github.com/typicode/json-server) crea
 
 ### Project
 
-[Repository Link Client](www.your-github-url-here.com)
+[Repository Link Client](https://github.com/lamardemuela/crudo)
 
 [Repository Link Server](https://github.com/MDasier/backendCrudo)
 
-[Deploy Link]([https://crudo-app.netlify.app])
+[Deploy Link](https://crudo-app.netlify.app)
 
 ### Slides
 
