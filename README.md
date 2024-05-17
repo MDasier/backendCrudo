@@ -77,7 +77,7 @@ This repository is a [json-server](https://github.com/typicode/json-server) crea
 [Repository Link Client](https://github.com/lamardemuela/crudo)
 
 ### Slides
-[Slides Link] (https://docs.google.com/presentation/d/1weBkMpfeYKZYzdPg3ZVGxyuLKoQWflLImDKvt7n9f4Y/edit?usp=sharing)
+[Slides Link](https://docs.google.com/presentation/d/1weBkMpfeYKZYzdPg3ZVGxyuLKoQWflLImDKvt7n9f4Y/edit?usp=sharing)
 
 [Repository Link Server](https://github.com/MDasier/backendCrudo)
 
